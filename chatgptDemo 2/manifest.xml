@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="chatgpt1-eaac78">
+ <names>
+  <name lang="en_US">chatgpt</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+  <language>zh_CN</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>zh_CN</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="main">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
